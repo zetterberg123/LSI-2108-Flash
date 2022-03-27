@@ -1,6 +1,6 @@
 > **Note**,
 > this information/guide is compiled information from sources listed at the bottom.  
-> It is only for the LSI SAS 2108 card but can be used for other cards by downloading and replacing the firmware file from link at the bottom
+> It is only for the LSI SAS 9210-8i card but can be used for other cards by downloading and replacing the firmware file from link at the bottom
 
 ## How to:
 * Download attached zip or find files in resources.
@@ -38,7 +38,7 @@ Done!
   
 ### Links and resources:
 ##### Firmware: 
-* https://www.broadcom.com/support/download-search?pg=&pf=Legacy+Products&pn=SAS+9210-8i+Host+Bus+Adapter&pa=&po=&dk=&pl=
+* https://www.broadcom.com/support/download-search
 
 ##### Guides: 
 * https://www.truenas.com/community/resources/detailed-newcomers-guide-to-crossflashing-lsi-9211-9300-9305-9311-9400-94xx-hba-and-variants.54/
