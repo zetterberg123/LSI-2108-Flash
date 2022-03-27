@@ -12,8 +12,8 @@
 
 ### UEFI Motherboard:
 * Get into BIOS and figure out how to boot an EFI shell and do it. Usually in Exit, mine is labeled "Launch EFI Shell from USB drives"
-* Once in shell type "map" to display what drives are detected, then type "mount <yourdrive>" to mount the drive. ie, I typed mount fs0
-Type "ls" or "dir" to see and verify files
+* Once in shell type ```map``` to display what drives are detected, then type ```mount <yourdrive>``` to mount the drive. ie, I typed ```mount fs0```
+* Type ```ls``` or ```dir``` to see and verify files
 
 ##### Flashing:
 * ```sas2flash.efi -listall``` to show the controller and verify the current version.
