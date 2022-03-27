@@ -1,6 +1,8 @@
 > **Note**,
 > this information/guide is compiled information from sources listed at the bottom.  
-> It is only for the LSI SAS 9210-8i card but can be used for other cards by downloading and replacing the firmware file from link at the bottom
+> This is for IT firmware(HBA), IR firmware(RAID) is also included just change the file name in the command to ```2108ir.bin```  
+> It is only for the LSI SAS 9210-8i card but can be used for other cards by downloading and replacing the firmware file from link at the bottom.  
+
 
 ## How to:
 * Download attached zip or find files in resources.
